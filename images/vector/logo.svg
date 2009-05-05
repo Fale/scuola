@@ -19,8 +19,8 @@
    sodipodi:docname="logo.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/fale/Documents/scuola/images/png/logo.png"
-   inkscape:export-xdpi="17.450001"
-   inkscape:export-ydpi="17.450001">
+   inkscape:export-xdpi="9.1000004"
+   inkscape:export-ydpi="9.1000004">
   <metadata
      id="metadata2045">
     <rdf:RDF>
@@ -78,16 +78,16 @@
     </linearGradient>
     <radialGradient
        xlink:href="#linearGradient3076"
-       spreadMethod="reflect"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-1.009392,-0.110028,0.109218,-1.001961,624.4219,708.5887)"
-       r="209.03671"
-       fy="335.73111"
-       fx="329"
-       cy="335.73111"
-       cx="329"
+       inkscape:collect="always"
        id="radialGradient3082"
-       inkscape:collect="always" />
+       cx="329"
+       cy="335.73111"
+       fx="329"
+       fy="335.73111"
+       r="209.03671"
+       gradientTransform="matrix(-1.009392,-0.110028,0.109218,-1.001961,624.4219,708.5887)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
   </defs>
   <path
      style="fill:url(#radialGradient3082);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:5.20872355;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:1"
