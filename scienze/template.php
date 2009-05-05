@@ -29,6 +29,7 @@ function navigation()
     <div class="pBody">
       <ul>
         <li><a href="http://<?php echo $site ?>">Home Page</a></li>
+        <li><a href="http://<?php echo $site ?>/ere.php">Ere</a></li>
       </ul>
     </div>
   </div>
