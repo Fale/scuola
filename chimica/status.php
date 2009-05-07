@@ -78,7 +78,7 @@
   </tr>
 </table>
 <br />
-<h3>Symbols means</h3>
+<h3>Significati dei simboli</h3>
 <table>
   <tr>
     <td><img src="images/png/simboli/ok.png"></img></td>
