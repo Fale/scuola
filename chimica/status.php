@@ -12,56 +12,56 @@
     <td><b>Perfetta</b></td>
   </tr>
   <tr>
-    <td>Home Page</td>
+    <td><b>Home Page</b></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/pa.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
   </tr>
   <tr>
-    <td>Famiglie</td>
+    <td><b>Famiglie</b></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
   </tr>
   <tr>
-    <td>Gruppi</td>
+    <td><b>Gruppi</b></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
   </tr>
   <tr>
-    <td>Isomeri</td>
+    <td><b>Isomeri</b></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
   </tr>
   <tr>
-    <td>Status</td>
+    <td><b>Status</b></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/pa.png"></img></td>
     <td><img src="images/png/simboli/pa.png"></img></td>
   </tr>
   <tr>
-    <td>Alcani e cicloalcani</td>
+    <td><b>Alcani e cicloalcani</b></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
   </tr>
   <tr>
-    <td>Alcheni ed alchini</td>
+    <td><b>Alcheni ed alchini</b></td>
     <td><img src="images/png/simboli/no.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
   </tr>
   <tr>
-    <td>Composti aromatici</td>
+    <td><b>Composti aromatici</b></td>
     <td><img src="images/png/simboli/no.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
