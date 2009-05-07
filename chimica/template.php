@@ -38,7 +38,7 @@ function navigation()
       <ul>
         <li><a href="http://<?php echo $site ?>/alcani.php">Alcani e cicloalcani</a></li>
         <li><a href="http://<?php echo $site ?>/alcheniini.php">Alcheni ed alchini</a></li>
-        <li><a href="http://<?php echo $site ?>/compostiaromatici.php">I composti aromatici</a></li>
+        <li><a href="http://<?php echo $site ?>/compostiaromatici.php">Composti aromatici</a></li>
       </ul>
     </div>
   </div>
