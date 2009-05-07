@@ -72,23 +72,23 @@
 <h3>Symbols means</h3>
 <table>
   <tr>
-    <td><img src="images/png/ok.png"></img></td>
+    <td><img src="images/png/simboli/ok.png"></img></td>
     <td>Done</td>
   </tr>
   <tr>
-    <td><img src="images/png/pa.png"></img></td>
+    <td><img src="images/png/simboli/pa.png"></img></td>
     <td>Partial</td>
   </tr>
   <tr>
-    <td><img src="images/png/no.png"></img></td>
+    <td><img src="images/png/simboli/no.png"></img></td>
     <td>To do</td>
   </tr>
   <tr>
-    <td><img src="images/png/ol.png"></img></td>
+    <td><img src="images/png/simboli/ol.png"></img></td>
     <td>Old, to be checked and/or upadated</td>
   </tr>
   <tr>
-    <td><img src="images/png/uk.png"></img></td>
+    <td><img src="images/png/simboli/uk.png"></img></td>
     <td>Unknown (To be consider as no)</td>
   </tr>
 </table>
