@@ -46,7 +46,8 @@
       <img src="images/png/alcani/combustione.png">
     <h4>Alogenazione</h4>
       <img src="images/png/alcani/alogenazione.png">
-    <h4>Meccanismo radicalico</h4>
+  <h2>Meccanismi</h2>
+    <h4>Radicalico</h4>
       <b>Inizio:</b><br />
       <img src="images/png/alcani/meccanismo.png"><br />
       <b>Propagazione:</b><br />
