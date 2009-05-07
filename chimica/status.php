@@ -2,7 +2,7 @@
   require "template.php";
   headers("AppuntiEsame - Chimica Organica - Status");
 ?>
-
+<h1>Status della sezione di Chimica organica</h1>
 <table class="wikitable" width="100%" style="text-align:center">
   <tr>
     <td><b>Pagina</b></td>
