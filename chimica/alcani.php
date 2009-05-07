@@ -41,6 +41,21 @@
       <li>Gli alcani hanno <b>punti di ebolizione</b> più <b>bassi</b>, a parità di peso molecolare, della maggior parte degli altri composti organici.
       <li>I punti di ebolizione degli alcani <b>crescono</b> al <i>crescere dela lunghezza della catena</i> e <i>diminuiscono se la catena si ramifica e assume una forma più simile a quella sferica</i>.
     </ul>
+  <h2>Reazioni</h2>
+    <h4>Combusione</h4>
+      <img src="images/png/alcani/combustione.png">
+    <h4>Alogenazione</h4>
+      <img src="images/png/alcani/alogenazione.png">
+    <h4>Meccanismo radicalico</h4>
+      <b>Inizio:</b><br />
+      <img src="images/png/alcani/meccanismo.png">
+      <b>Propagazione:</b><br />
+      <img src="images/png/alcani/propagazione1.png">
+      <img src="images/png/alcani/propagazione2.png">
+      <b>Terminazione:</b><br />
+      <img src="images/png/alcani/terminazione1.png">
+      <img src="images/png/alcani/terminazione2.png">
+      <img src="images/png/alcani/terminazione3.png">
 <?php
  footer();
 ?>
