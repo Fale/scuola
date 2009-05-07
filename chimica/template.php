@@ -31,6 +31,7 @@ function navigation()
         <li><a href="http://<?php echo $site ?>">Home Page</a></li>
         <li><a href="http://<?php echo $site ?>/famiglie.php">Famiglie</a></li>
         <li><a href="http://<?php echo $site ?>/gruppi.php">Gruppi</a></li>
+        <li><a href="http://<?php echo $site ?>/isomeri.php">Isomeri</a></li>
       </ul>
     </div>
     <h5>Gruppi</h5>
