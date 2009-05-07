@@ -11,8 +11,10 @@
     <h4>Formula base</h4>
       C<small><sub>n</sub></small>H<small><sub>2n+2</sub></small>
   <h2>Nomenclatura</h2>
-    <b>Desinenza:</b> -ano<br />
-    <b>Sostituenti:</b> -ile
+    <ul>
+      <li><b>Desinenza:</b> -ano
+      <li><b>Sostituenti:</b> -ile
+    </ul>
     <h4>Esempi</h4>
       <table class="wikitable" style="text-align:center">
         <tr>
@@ -29,7 +31,10 @@
         </tr>
       </table>
   <h2>Fonti</h2>
-    Le principali fonti naturali di lacani sono il <b>petrolio</b> e il <b>gas naturale</b>.
+    <ul>
+      <li>Petrolio
+      <li>Gas naturale
+    </ul>
   <h2>Proprietà fisiche</h2>
     <ul>
       <li>Gli alcani sono <b>apolari</b>, quindi <b>insolubili</b> in acqua.
