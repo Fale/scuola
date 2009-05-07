@@ -9,6 +9,7 @@
     <td><b>Presente</b></td>
     <td><b>Fatta</b></td>
     <td><b>Completa</b></td>
+    <td><b>Vettoriali</b></td>
     <td><b>Perfetta</b></td>
   </tr>
   <tr>
@@ -16,6 +17,7 @@
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/pa.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
+    <td><img src="images/png/simboli/ol.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
   </tr>
   <tr>
@@ -23,6 +25,7 @@
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
+    <td><img src="images/png/simboli/ol.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
   </tr>
   <tr>
@@ -30,6 +33,7 @@
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
+    <td><img src="images/png/simboli/ol.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
   </tr>
   <tr>
@@ -37,6 +41,7 @@
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
+    <td><img src="images/png/simboli/ol.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
   </tr>
   <tr>
@@ -44,6 +49,7 @@
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/pa.png"></img></td>
+    <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/pa.png"></img></td>
   </tr>
   <tr>
@@ -52,9 +58,11 @@
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/ok.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
+    <td><img src="images/png/simboli/no.png"></img></td>
   </tr>
   <tr>
     <td><b>Alcheni ed alchini</b></td>
+    <td><img src="images/png/simboli/no.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
@@ -66,6 +74,7 @@
     <td><img src="images/png/simboli/no.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
     <td><img src="images/png/simboli/no.png"></img></td>
+    <td><img src="images/png/simboli/no.png"></img></td>
   </tr>
 </table>
 <br />
@@ -73,23 +82,23 @@
 <table>
   <tr>
     <td><img src="images/png/simboli/ok.png"></img></td>
-    <td>Done</td>
+    <td>Fatto</td>
   </tr>
   <tr>
     <td><img src="images/png/simboli/pa.png"></img></td>
-    <td>Partial</td>
+    <td>Parziale</td>
   </tr>
   <tr>
     <td><img src="images/png/simboli/no.png"></img></td>
-    <td>To do</td>
+    <td>Da fare</td>
   </tr>
   <tr>
     <td><img src="images/png/simboli/ol.png"></img></td>
-    <td>Old, to be checked and/or upadated</td>
+    <td>Non applicabile</td>
   </tr>
   <tr>
     <td><img src="images/png/simboli/uk.png"></img></td>
-    <td>Unknown (To be consider as no)</td>
+    <td>Sconosciuto (da intendersi come "Da fare")</td>
   </tr>
 </table>
 
