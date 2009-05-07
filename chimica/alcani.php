@@ -39,7 +39,7 @@
     <ul>
       <li>Gli alcani sono <b>apolari</b>, quindi <b>insolubili</b> in acqua.
       <li>Gli alcani hanno <b>punti di ebolizione</b> più <b>bassi</b>, a parità di peso molecolare, della maggior parte degli altri composti organici.
-      <li>I punti di ebolizione degli alcani <b>crescono</b> al <i>crescere dela lunghezza della catena</b> e <i>diminuiscono se la catena si ramifica e assume una forma più simile a quella sferica.
+      <li>I punti di ebolizione degli alcani <b>crescono</b> al <i>crescere dela lunghezza della catena</i> e <i>diminuiscono se la catena si ramifica e assume una forma più simile a quella sferica.
     </ul>
 <?php
  footer();
