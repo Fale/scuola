@@ -1,6 +1,6 @@
 <?php
   require "template.php";
-  headers("Wiki++ - Home Page");
+  headers("AppuntiEsame - Chimica Organica - Home Page");
 ?>
 
 Questo sito non si pone l'obbiettivo di parlare di ogni parte della <b>chimica organica</b> ma, semplicemente, di raccogliere tutti gli appunti e schemi che io ho creato durante lo studio per l'esame di quinta superiore.<br />

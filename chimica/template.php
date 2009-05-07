@@ -33,6 +33,14 @@ function navigation()
         <li><a href="http://<?php echo $site ?>/gruppi.php">Gruppi</a></li>
       </ul>
     </div>
+    <h5>Gruppi</h5>
+    <div class="pBody">
+      <ul>
+        <li><a href="http://<?php echo $site ?>/alcani.php">Alcani e cicloalcani</a></li>
+        <li><a href="http://<?php echo $site ?>/alcheniini.php">Alcheni ed alchini</a></li>
+        <li><a href="http://<?php echo $site ?>/compostiaromatici.php">I composti aromatici</a></li>
+      </ul>
+    </div>
   </div>
   <?php
 }

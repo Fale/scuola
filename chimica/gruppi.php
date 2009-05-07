@@ -1,6 +1,6 @@
 <?php
   require "template.php";
-  headers("Chimica Organica - Gruppi");
+  headers("AppuntiEsame - Chimica Organica - Gruppi");
 ?>
 
 <table class="wikitable" width="100%" style="text-align:center">
