@@ -48,13 +48,13 @@
       <img src="images/png/alcani/alogenazione.png">
     <h4>Meccanismo radicalico</h4>
       <b>Inizio:</b><br />
-      <img src="images/png/alcani/meccanismo.png">
+      <img src="images/png/alcani/meccanismo.png"><br />
       <b>Propagazione:</b><br />
-      <img src="images/png/alcani/propagazione1.png">
-      <img src="images/png/alcani/propagazione2.png">
+      <img src="images/png/alcani/propagazione1.png"><br />
+      <img src="images/png/alcani/propagazione2.png"><br />
       <b>Terminazione:</b><br />
-      <img src="images/png/alcani/terminazione1.png">
-      <img src="images/png/alcani/terminazione2.png">
+      <img src="images/png/alcani/terminazione1.png"><br />
+      <img src="images/png/alcani/terminazione2.png"><br />
       <img src="images/png/alcani/terminazione3.png">
 <?php
  footer();
