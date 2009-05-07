@@ -5,11 +5,11 @@
 
 <table class="wikitable" width="100%" style="text-align:center">
   <tr>
-    <td>Pagina</td>
-    <td>Presente</td>
-    <td>Fatta</td>
-    <td>Completa</td>
-    <td>Perfetta</td>
+    <td><b>Pagina</b></td>
+    <td><b>Presente</b></td>
+    <td><b>Fatta</b></td>
+    <td><b>Completa</b></td>
+    <td><b>Perfetta</b></td>
   </tr>
   <tr>
     <td>Home Page</td>
